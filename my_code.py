@@ -1,5 +1,5 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help)
-#  none
+#  jamie wang
 
 def factorial_calc(num):  
     if num == 1:
